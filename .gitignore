@@ -1,7 +1,0 @@
-.pyc
-*.pyc
-./gearenv
-*env
-.env
-.idea
-*__pycache__/*
